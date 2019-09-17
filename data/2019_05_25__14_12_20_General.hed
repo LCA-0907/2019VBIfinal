@@ -1,0 +1,10 @@
+DATASET	Zephyr
+VERSION	1.0
+SERIES	HeartRate,BreathingRate,SkinTemperature,Posture,VectorMagnitude,PeakAcceleration,BatteryVoltage,BreathingWaveAmplitude,EcgAmplitude,EcgNoise,XMin,XMax,YMin,YMax,ZMin,ZMax
+RATE	0.99206,0.99206,0.99206,0.99206,0.99206,0.99206,0.99206,0.99206,0.99206,0.99206,0.99206,0.99206,0.99206,0.99206,0.99206,0.99206
+HORIZ_UNITS	Time,Time,Time,Time,Time,Time,Time,Time,Time,Time,Time,Time,Time,Time,Time,Time
+VERT_UNITS	No Units,No Units,No Units,No Units,No Units,No Units,No Units,No Units,No Units,No Units,No Units,No Units,No Units,No Units,No Units,No Units
+FILE_TYPE	FLOAT
+DATE	25-5-2019
+TIME	14:12:20
+NUM_SERIES	16
