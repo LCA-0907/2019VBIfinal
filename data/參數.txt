@@ -1,2 +1,0 @@
-filter low: 0.032973
-filter high: 0.409459
